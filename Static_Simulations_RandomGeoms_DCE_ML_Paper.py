@@ -1,6 +1,10 @@
 #!/usr/bin/env python
 # coding: utf-8
 
+"""
+@author: anbu (anbu@ksu.edu), huynhlam (huynhlam@ksu.edu)
+"""
+
 import time
 import numpy as np
 import pandas as pd
