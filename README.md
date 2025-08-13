@@ -23,7 +23,7 @@ CES for DCE 6-body
 
 - Expected output:
   - A pandas DataFrame containing event-by-event simulation results.
-  - The DataFrame includes geometries, final velocities, momenta (Cartesian), and KE for each simulated event.
+  - The DataFrame includes initial geometries, initial velocities, final momenta (Cartesian), and KE for each simulated event.
 
 - Expected runtime: Typically a few minutes on a standard desktop.
 
