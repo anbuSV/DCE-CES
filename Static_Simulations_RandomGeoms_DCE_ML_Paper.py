@@ -3,6 +3,7 @@
 
 """
 @author: anbu (anbu@ksu.edu), huynhlam (huynhlam@ksu.edu)
+JRM Lab, Dept. of Physics, Kansas State University, Manhattan, KS. 
 """
 
 import time
